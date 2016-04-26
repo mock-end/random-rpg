@@ -1,9 +1,9 @@
 # random-rpg
 
-[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/mock-end/random-rpg /blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/mock-end/random-rpg/blob/master/LICENSE)
 
-[![build:?](https://img.shields.io/travis/mock-end/random-rpg /master.svg?style=flat-square)](https://travis-ci.org/mock-end/random-rpg )
-[![coverage:?](https://img.shields.io/coveralls/mock-end/random-rpg /master.svg?style=flat-square)](https://coveralls.io/github/mock-end/random-rpg )
+[![build:?](https://img.shields.io/travis/mock-end/random-rpg/master.svg?style=flat-square)](https://travis-ci.org/mock-end/random-rpg)
+[![coverage:?](https://img.shields.io/coveralls/mock-end/random-rpg/master.svg?style=flat-square)](https://coveralls.io/github/mock-end/random-rpg)
 
 
 > Return an array of dice values.
