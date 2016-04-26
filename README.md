@@ -1,11 +1,12 @@
 # random-rpg
 
-> Return an array of dice values.
-
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/mock-end/random-rpg /blob/master/LICENSE)
 
 [![build:?](https://img.shields.io/travis/mock-end/random-rpg /master.svg?style=flat-square)](https://travis-ci.org/mock-end/random-rpg )
 [![coverage:?](https://img.shields.io/coveralls/mock-end/random-rpg /master.svg?style=flat-square)](https://coveralls.io/github/mock-end/random-rpg )
+
+
+> Return an array of dice values.
 
 Given an input looking like `#d#`, where the first `#` is the number of dice to roll and the second `#` is the max of each die, then returns an array of dice values.
 
